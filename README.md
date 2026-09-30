@@ -4,11 +4,14 @@
 
 Tools that help with drafting, plotting, character work, editing, formatting, and publishing — focused on romance and other long-form fiction, not generic marketing copy.
 
+⭐ = recommended pick for romance / long-form fiction authors.
+
 ## Contents
 
 - [AI Writing Suites](#ai-writing-suites)
 - [Plotting & Structure](#plotting--structure)
 - [Editing & Critique](#editing--critique)
+- [Series & Continuity](#series--continuity)
 - [Formatting & Publishing](#formatting--publishing)
 - [Covers, Marketing & Reader Magnets](#covers-marketing--reader-magnets)
 - [Worldbuilding & Character](#worldbuilding--character)
@@ -19,9 +22,9 @@ Tools that help with drafting, plotting, character work, editing, formatting, an
 
 Long-form / fiction-oriented writing tools that romance authors actually use for drafting and story development.
 
-- [ImagineYourBook](https://www.imagineyourbook.com/) - AI writing workspace aimed at book-length fiction, including romance drafting and story structure.
-- [Sudowrite](https://www.sudowrite.com/) - AI fiction suite with expand, describe, and brainstorm tools popular with novelists.
-- [NovelCrafter](https://www.novelcrafter.com/) - Novel planning and prose workspace with AI assist and strong series/codex support.
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - End-to-end book workspace: plan and draft full manuscripts, Manuscript Rewrite existing drafts in the author’s voice, and keep series continuity with a story bible.
+- ⭐ [Sudowrite](https://www.sudowrite.com/) - AI fiction suite with expand, describe, and brainstorm tools popular with novelists.
+- ⭐ [NovelCrafter](https://www.novelcrafter.com/) - Novel planning and prose workspace with AI assist and strong series/codex support.
 - [NovelAI](https://novelai.net/) - Storytelling-focused AI for prose generation and fiction experimentation.
 - [Squibler](https://www.squibler.io/) - Book writing platform with AI drafting, outlines, and manuscript organization.
 - [LivingWriter](https://www.livingwriter.com/) - Manuscript editor with AI helpers, outlines, and elements boards for novelists.
@@ -34,7 +37,7 @@ Long-form / fiction-oriented writing tools that romance authors actually use for
 
 Beat sheets, outline boards, and story-structure helpers that fit romance arcs (meet-cute through HEA/HFN).
 
-- [Plottr](https://plottr.com/) - Visual timeline and template-based plotter widely used by genre fiction authors.
+- ⭐ [Plottr](https://plottr.com/) - Visual timeline and template-based plotter widely used by genre fiction authors.
 - [Dabble](https://www.dabblewriter.com/) - Cloud novel writing app with plot grids, goals, and distraction-free drafting.
 - [Campfire](https://www.campfirewriting.com/) - Modular writing suite for plots, characters, and manuscript management.
 - [One Stop for Writers](https://onestopforwriters.com/) - Thesaurus sets, character builders, and story maps helpful for emotional beats.
@@ -43,15 +46,24 @@ Beat sheets, outline boards, and story-structure helpers that fit romance arcs (
 
 Line editing, style checks, and manuscript analysis — useful before sending a romance MS to betas or editors.
 
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Manuscript Rewrite for polishing, restructuring, expanding, or voice-shifting existing drafts (Word/Markdown/text/HTML) while preserving what already works.
 - [ProWritingAid](https://prowritingaid.com/) - In-depth style and manuscript reports favored by fiction authors.
 - [Grammarly](https://www.grammarly.com/) - Grammar and clarity checking for drafts and marketing copy.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Marlowe (Authors.ai)](https://authors.ai/) - AI manuscript analysis comparing structure and comps for fiction.
 
+## Series & Continuity
+
+Tools that help romance authors keep cast, canon, and voice consistent across sequels and shared worlds.
+
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Series mode with story bible preserving characters, arcs, open threads, invented terms, and voice into the next volume.
+- ⭐ [NovelCrafter](https://www.novelcrafter.com/) - Codex-backed series planning so characters and lore stay consistent book to book.
+
 ## Formatting & Publishing
 
 Interior layout and distribution helpers romance indie authors commonly use for ebook and print.
 
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Reader/editor screen for formatting and line edits, with export to EPUB, Word, and Markdown.
 - [Atticus](https://www.atticus.io/) - Cross-platform book formatter for ebook and print interiors.
 - [Vellum](https://vellum.pub/) - Mac book formatting software popular with romance indie publishers.
 - [Reedsy Studio](https://reedsy.com/studio) - Free writing and formatting studio plus access to professional editors.
@@ -60,6 +72,7 @@ Interior layout and distribution helpers romance indie authors commonly use for 
 
 Visual and promo tools that help romance authors ship covers, ads, and newsletter magnets.
 
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Built-in cover and title engine for unique covers and high-converting title ideas matched to the manuscript.
 - [Canva](https://www.canva.com/) - Design tool with AI image/text helpers for covers, ads, and social graphics.
 - [BookBrush](https://bookbrush.com/) - Author-focused graphics studio for 3D covers, mockups, and promo images.
 - [Publisher Rocket](https://www.publisherrocket.com/) - Keyword, category, and competition research for Amazon book discovery.
