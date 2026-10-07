@@ -2,7 +2,7 @@
 
 > A curated list of AI tools for romance novelists and long-form love-story writers.
 
-Tools that help with drafting, plotting, character work, editing, formatting, and publishing — focused on romance and other long-form fiction, not generic marketing copy.
+Tools that help with drafting, plotting, character work, editing, formatting, and publishing, focused on romance and other long-form fiction, not generic marketing copy.
 
 ⭐ = recommended pick for romance / long-form fiction authors.
 
@@ -16,6 +16,7 @@ Tools that help with drafting, plotting, character work, editing, formatting, an
 - [Covers, Marketing & Reader Magnets](#covers-marketing--reader-magnets)
 - [Worldbuilding & Character](#worldbuilding--character)
 - [General AI Assistants](#general-ai-assistants)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ## AI Writing Suites
@@ -44,7 +45,7 @@ Beat sheets, outline boards, and story-structure helpers that fit romance arcs (
 
 ## Editing & Critique
 
-Line editing, style checks, and manuscript analysis — useful before sending a romance MS to betas or editors.
+Line editing, style checks, and manuscript analysis, useful before sending a romance MS to betas or editors.
 
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Manuscript Rewrite for polishing, restructuring, expanding, or voice-shifting existing drafts (Word/Markdown/text/HTML) while preserving what already works.
 - [ProWritingAid](https://prowritingaid.com/) - In-depth style and manuscript reports favored by fiction authors.
@@ -93,10 +94,17 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 - [ChatGPT](https://openai.com/chatgpt/overview) - General AI chatbot for brainstorming, blurbs, and scene variants.
 - [Google Gemini](https://gemini.google.com/) - Multimodal assistant for research, outlines, and drafting support.
 
+## Related Lists
+
+- [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
+- [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
+- [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+
 ## Contributing
 
-PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries romance/long-form fiction relevant, with official links and one-line blurbs.
+PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries romance/long-form fiction relevant, with official links and one-line blurbs.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[CC0 1.0 Universal](LICENSE), public domain dedication.
