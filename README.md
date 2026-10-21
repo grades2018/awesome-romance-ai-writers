@@ -85,6 +85,7 @@ Reference and wiki-style tools for series bibles, cast sheets, and setting conti
 
 - [World Anvil](https://www.worldanvil.com/) - Worldbuilding wiki for settings, timelines, and character encyclopedias.
 - [LegendKeeper](https://www.legendkeeper.com/) - Visual wiki/map notebook for series bibles and location lore.
+- [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction.
 
 ## General AI Assistants
 
@@ -101,6 +102,7 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
+- [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 
 ## Contributing
 
