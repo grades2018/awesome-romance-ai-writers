@@ -52,6 +52,7 @@ Line editing, style checks, and manuscript analysis, useful before sending a rom
 - [Grammarly](https://www.grammarly.com/) - Grammar and clarity checking for drafts and marketing copy.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Marlowe (Authors.ai)](https://authors.ai/) - AI manuscript analysis comparing structure and comps for fiction.
+- [Hemingway Editor](https://hemingwayapp.com/) - Readability checker that highlights long sentences, adverbs, and passive voice in love scenes and dialogue alike.
 
 ## Series & Continuity
 
@@ -103,6 +104,7 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
+- [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
 
 ## Contributing
 
