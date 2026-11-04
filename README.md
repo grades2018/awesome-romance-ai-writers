@@ -79,6 +79,7 @@ Visual and promo tools that help romance authors ship covers, ads, and newslette
 - [BookBrush](https://bookbrush.com/) - Author-focused graphics studio for 3D covers, mockups, and promo images.
 - [Publisher Rocket](https://www.publisherrocket.com/) - Keyword, category, and competition research for Amazon book discovery.
 - [BookFunnel](https://www.bookfunnel.com/) - Delivery and promotion platform for ARCs and reader magnets.
+- [StoryOrigin](https://storyoriginapp.com/) - Reader magnet delivery and newsletter swaps, widely used for romance group promos.
 
 ## Worldbuilding & Character
 
@@ -105,6 +106,7 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
+- [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Drafting, designing, and delivering ebooks that grow an email list.
 
 ## Contributing
 
