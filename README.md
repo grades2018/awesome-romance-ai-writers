@@ -53,6 +53,7 @@ Line editing, style checks, and manuscript analysis, useful before sending a rom
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Marlowe (Authors.ai)](https://authors.ai/) - AI manuscript analysis comparing structure and comps for fiction.
 - [Hemingway Editor](https://hemingwayapp.com/) - Readability checker that highlights long sentences, adverbs, and passive voice in love scenes and dialogue alike.
+- [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
 
 ## Series & Continuity
 
@@ -99,6 +100,7 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
