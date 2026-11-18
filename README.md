@@ -16,8 +16,6 @@ Tools that help with drafting, plotting, character work, editing, formatting, an
 - [Covers, Marketing & Reader Magnets](#covers-marketing--reader-magnets)
 - [Worldbuilding & Character](#worldbuilding--character)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Writing Suites
 
@@ -113,7 +111,3 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries romance/long-form fiction relevant, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
