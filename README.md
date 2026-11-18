@@ -47,6 +47,7 @@ Line editing, style checks, and manuscript analysis, useful before sending a rom
 
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Manuscript Rewrite for polishing, restructuring, expanding, or voice-shifting existing drafts (Word/Markdown/text/HTML) while preserving what already works.
 - [ProWritingAid](https://prowritingaid.com/) - In-depth style and manuscript reports favored by fiction authors.
+- [Revise AI](https://www.revise.net/) - AI line editor that shows grammar, clarity, and style suggestions as tracked changes the author accepts or rejects, so a manuscript keeps the writer's voice.
 - [Grammarly](https://www.grammarly.com/) - Grammar and clarity checking for drafts and marketing copy.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Marlowe (Authors.ai)](https://authors.ai/) - AI manuscript analysis comparing structure and comps for fiction.
