@@ -52,6 +52,7 @@ Line editing, style checks, and manuscript analysis, useful before sending a rom
 - [Marlowe (Authors.ai)](https://authors.ai/) - AI manuscript analysis comparing structure and comps for fiction.
 - [Hemingway Editor](https://hemingwayapp.com/) - Readability checker that highlights long sentences, adverbs, and passive voice in love scenes and dialogue alike.
 - [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
+- [Revise AI](https://www.revise.net/) - AI line editor that shows grammar, clarity, and style suggestions as tracked changes the author accepts or rejects, so a manuscript keeps the writer's voice.
 
 ## Series & Continuity
 
