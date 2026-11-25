@@ -112,3 +112,5 @@ General-purpose models romance writers use for brainstorming tropes, dialogue pa
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries romance/long-form fiction relevant, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.

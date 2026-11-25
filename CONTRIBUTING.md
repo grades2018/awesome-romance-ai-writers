@@ -28,3 +28,5 @@ Thanks for helping curate tools for romance novelists and long-form love-story w
 - No duplicates; fix typos and dead links freely.
 
 Questions? Open an issue or PR and we’ll take a look.
+
+If this list is useful to you, a star helps other writers find it.
