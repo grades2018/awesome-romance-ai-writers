@@ -31,6 +31,7 @@ Long-form / fiction-oriented writing tools that romance authors actually use for
 - [Lex](https://lex.page/) - Distraction-free AI writing editor useful for scenes, blurbs, and revisions.
 - [ShortlyAI](https://www.shortlyai.com/) - Long-form AI writing assistant for continuing and expanding prose.
 - [Fictionate.Me](https://www.fictionate.me/) - Fiction-oriented AI writing tool for scene and chapter generation.
+- [Ouba](https://www.ouba.art) - Reader-first AI interactive fiction and romance storytelling platform with branching narratives on web, iOS, and Android.
 
 ## Plotting & Structure
 
